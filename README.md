@@ -4,7 +4,7 @@ This project is a **Matrix Operations Calculator** developed using **Scilab**.
 It performs fundamental matrix operations such as addition, subtraction, multiplication, transpose, determinant, and inverse through a simple menu-driven interface.
 
 Features
-1. Matrix Addition
+1.Matrix Addition
 2.Matrix Subtraction
 3.Matrix Multiplication
 4.Matrix Transpose
